@@ -1,0 +1,8 @@
+1- The file is written piecemeal in its own section. Well, this both speeds up the work and makes the relevant code cleaner
+2- We can write a component in React once and use it whenever and wherever we need it.
+3- If a change is needed in the component, we will make that change only once on the component and that change will be applied to all other parts.
+4- its good for teamwork, Whoever is responsible for writing a particular component, the website is completed by putting all the components together.
+
+<!-- 2 way for write components -->
+1- class components
+2- functional components

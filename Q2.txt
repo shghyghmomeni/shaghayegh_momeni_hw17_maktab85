@@ -1,0 +1,6 @@
+1- Use of V-DOM (virtual document object model)
+2- Works well with SEO
+3- Speed
+4- Flexibility
+5- Reusable Components
+6- It’s Easier to Write with JSX

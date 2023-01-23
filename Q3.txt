@@ -1,0 +1,2 @@
+JSX allows us to write HTML in React
+It is type-safe, and most of the errors can be found at compilation time.

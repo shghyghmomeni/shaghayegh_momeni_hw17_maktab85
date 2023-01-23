@@ -1,0 +1,13 @@
+<!-- Difference -->
+
+1- Frameworks provide ready-to-use tools, standards and templates for fast application development and libraries do not
+2- Frameworks control the calling of libraries for our code
+3- Frameworks give rules and guidelines on writing your code and structuring files and folders
+5- When you use a framework, the control is inverted, the framework controls the flow and calls your code,
+but libraries let you control the flow of the application.
+*Framework calls Code, Code calls Framework
+
+<!-- why react is library -->
+
+because of there are lots of options to do something and we have to choose our tools (packages) carefully
+and create a proper design system for a specific project.
